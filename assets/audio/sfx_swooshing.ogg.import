@@ -11,5 +11,5 @@ dest_files=[ "res://.import/sfx_swooshing.ogg-f3115c1b023b9efe68c7575a2ad8f260.o
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/sfx_point.ogg-097f096bf437a5226d4f354b3982a349.oggst
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

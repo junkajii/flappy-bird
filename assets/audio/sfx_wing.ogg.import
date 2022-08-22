@@ -11,5 +11,5 @@ dest_files=[ "res://.import/sfx_wing.ogg-cf9571d08f5b8c8874ae52254df2a082.oggstr
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0
